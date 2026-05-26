@@ -31,5 +31,3 @@ Encrypted Message: Khoor Zruog
 Decrypted Message: Hello World
 ```
 
-## Author
-Suyash Patil
